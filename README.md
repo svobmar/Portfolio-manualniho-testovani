@@ -15,6 +15,10 @@ Aplikace byla testována v lokálním vývojovém prostředí. Testovací příp
 └── bug-reports
     ├── persons
     └── invoices
+└── Screenshots
+    ├── postman
+    │   ├── TC003_GET_OvereniFaktury.png
+    │   └── TC003_PUT_EditaceFaktury.png
 ```
 
 ## Přehled aplikace
@@ -71,7 +75,35 @@ Ukázky dokumentace zahrnují zejména:
 - **Jira** – tvorba testovacích případů a evidence bug reportů
 - **Postman** – testování REST API
 - **Google Chrome** – testování webové aplikace
-- **GitHub** – prezentace portfolia
+- **GitHub** – prezentace portfolia  
+
+## Ukázky testování REST API
+
+Součástí portfolia jsou také ukázky testování REST API vytvořené v nástroji **Postman**.
+
+Testování zahrnovalo zejména:
+
+- vytváření a organizaci Postman kolekcí,
+- testování endpointů pomocí metod **GET**, **POST**, **PUT** a **DELETE**,
+- ověřování HTTP stavových kódů,
+- validaci odpovědí serveru,
+- testování pozitivních i negativních scénářů.
+
+### Postman kolekce
+
+![Postman Collection](screenshots/postman/collection-overview.png)
+
+### Editace faktury – metoda PUT
+
+![PUT Invoice](screenshots/postman/TC003_PUT_EditInvoice.png)
+
+Ukázka testování API endpointu pro editaci faktury pomocí metody **PUT**.
+
+### Ověření změny – metoda GET
+
+![GET Invoice](screenshots/postman/TC003_GET_Verification.png)
+
+Ověření provedené změny pomocí metody **GET**.
 
 ---
 

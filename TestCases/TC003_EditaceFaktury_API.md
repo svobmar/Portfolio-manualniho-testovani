@@ -105,7 +105,15 @@ Testování proběhlo úspěšně.
   ]
 }
 ```
+## Přílohy
 
+### Postman – PUT požadavek
+
+![PUT Editace faktury](../Screenshots/Postman/TC003_PUT_EditaceFaktury.png)
+
+### Postman – GET ověření
+
+![GET Ověření faktury](../Screenshots/Postman/TC003_GET_OvereniFaktury.png)
 ---
 
 ## Linked work items
