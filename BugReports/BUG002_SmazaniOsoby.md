@@ -58,4 +58,4 @@ Chyba se vyskytuje vždy při testování mazání osob.
 
 ## Linked work items
 
-- [**TC-002** – Smazání osoby](../TestCases.md/TC002_SmazaniOsoby.md)
+- [**TC-002** – Smazání osoby](../TestCases/TC002_SmazaniOsoby.md)

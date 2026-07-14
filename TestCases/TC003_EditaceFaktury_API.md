@@ -104,7 +104,11 @@ Testování proběhlo úspěšně.
     "This field is required."
   ]
 }
-```
+```  
+## Linked work items
+
+- [**BUG-003** – Editace faktury přes API](../BugReports/BUG003_EditaceFaktury_API.md)  
+
 ## Přílohy
 
 ### Postman – PUT požadavek
@@ -116,6 +120,3 @@ Testování proběhlo úspěšně.
 ![GET Ověření faktury](../Screenshots/Postman/TC003_GET_OvereniFaktury.png)
 ---
 
-## Linked work items
-
-- **BUG-003** – Editace faktury přes API

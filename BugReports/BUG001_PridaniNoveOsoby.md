@@ -62,4 +62,4 @@ Chyba se vyskytuje vždy při vytváření nové osoby.
 
 ## Linked work items
 
-- [**TC-001** – Přidání nové osoby](../TestCases.md/TC001_PridaniNoveOsoby.md)
+- [**TC-001** – Přidání nové osoby](../TestCases/TC001_PridaniNoveOsoby.md)

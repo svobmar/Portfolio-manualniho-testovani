@@ -71,4 +71,4 @@ Chyba se vyskytuje při každém pokusu o editaci faktury. Hodnota **invoiceNumb
 
 ## Linked work items
 
-- [**TC-003** – Editace faktury (API)](../TestCases.md/TC003_EditaceFaktury_API.md)
+- [**TC-003** – Editace faktury (API)](../TestCases/TC003_EditaceFaktury_API.md)

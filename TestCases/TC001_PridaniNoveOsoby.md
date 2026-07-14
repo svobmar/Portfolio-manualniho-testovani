@@ -52,4 +52,4 @@ Aplikace nezobrazila chybovou hlášku **„Vyplňte prosím toto pole.“**
 Osoba bez vyplněného **IČO** se zobrazí v seznamu osob.  
 ## Linked work items
 
-- [**BUG-001** – Chybí validace pole **IČO** při vytváření osoby](../BugReports.md/BUG001_PridaniNoveOsoby.md)
+- [**BUG-001** – Chybí validace pole **IČO** při vytváření osoby](../BugReports/BUG001_PridaniNoveOsoby.md)
