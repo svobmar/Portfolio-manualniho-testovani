@@ -52,4 +52,4 @@ Osoba zůstane v seznamu osob.
 
 ## Linked work items
 
-- **BUG-002** – Osoba není trvale odstraněna po kliknutí na tlačítko **„Odstranit“**.
+- [**BUG-002** – Osoba není trvale odstraněna po kliknutí na tlačítko **„Odstranit“**](../BugReports.md/BUG002_SmazaniOsoby.md)
