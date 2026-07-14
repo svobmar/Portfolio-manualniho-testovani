@@ -113,10 +113,10 @@ Testování proběhlo úspěšně.
 
 ### Postman – PUT požadavek
 
-![PUT Editace faktury](../Screenshots/Postman/TC003_PUT_EditaceFaktury.png)
+![PUT Editace faktury](../Screenshots/Postman/TC003_PUT_EditaceFaktury.PNG)
 
 ### Postman – GET ověření
 
-![GET Ověření faktury](../Screenshots/Postman/TC003_GET_OvereniFaktury.png)
+![GET Ověření faktury](../Screenshots/Postman/TC003_GET_OvereniFaktury.PNG)
 ---
 
