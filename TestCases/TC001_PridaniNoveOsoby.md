@@ -24,12 +24,7 @@ Uživatel se nachází na obrazovce **„Osoby“**.
 2. Klikne na tlačítko **„Nová osoba“**.
 3. Uživatel vyplní všechna pole kromě pole **IČO**.
 4. Klikne na tlačítko **„Uložit“**.
-5. **Očekávaný výsledek:** U pole se zobrazí chybová hláška **„Vyplňte prosím toto pole.“**
-
-## Expected Results
-
-- Osoba se uloží pouze v případě, že jsou vyplněna všechna povinná pole.
-- Pokud chybí některé povinné pole (například **IČO**), aplikace zobrazí chybovou hlášku **„Vyplňte prosím toto pole.“**
+5. **Očekávaný výsledek:** U pole se zobrazí chybová hláška **„Vyplňte prosím toto pole.“**  
 
 ## Acceptance Criteria
 
