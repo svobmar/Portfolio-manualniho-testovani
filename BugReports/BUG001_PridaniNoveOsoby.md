@@ -2,26 +2,25 @@
 
 ## Description
 
-**Příčina**  
 Pole **IČO** přijímá prázdnou hodnotu, i když by mělo být pole povinné.
 
-**Testovací zařízení**
+**Test environment**
 
 - Desktop
 - Windows 10 Pro
 - Verze 10.0.19045
 - Build 19045
 
-**Prohlížeč**
+**Browser**
 
 - Google Chrome
 - Verze 146.0.7680.177
 
-**Oblast**
+**Module**
 
 Formulář pro vytváření osoby.
 
-**Povaha chyby**
+**Issue type**
 
 Funkční (front-end)
 
@@ -48,7 +47,7 @@ Medium – chyba může ovlivnit kvalitu dat, ale aplikace je stále funkční.
 
 ## Expected Result
 
-Aplikace by při pokusu o uložení osoby měla zobrazit hlášku, že pole je povinné.
+Aplikace musí při pokusu o uložení osoby bez vyplněného povinného pole **IČO** zobrazit hlášku, že pole je povinné.
 
 ## Actual Result
 
