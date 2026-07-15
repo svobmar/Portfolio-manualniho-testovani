@@ -14,7 +14,7 @@ Uživatel se nachází na obrazovce **„Osoby“**.
 
 1. Uživatel klikne v menu na **Osoby**.
 2. Klikne na tlačítko **„Nová osoba“**.
-3. Vyplní všechna pole.
+3. Uživatel vyplní všechna pole platnými daty.
 4. Klikne na tlačítko **„Uložit“**.
 5. **Očekávaný výsledek:** Osoba se uloží a zobrazí se v seznamu osob.
 
