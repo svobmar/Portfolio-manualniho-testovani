@@ -36,15 +36,16 @@ Uživatel se nachází na obrazovce **„Osoby“**.
 
 ### Pozitivní scénář
 
-Testování proběhlo úspěšně. Po vyplnění všech polí se osoba uložila a zobrazila v seznamu osob.
+Testování proběhlo úspěšně. 
+- Po vyplnění všech polí se osoba uložila a zobrazila v seznamu osob.
 
 ### Negativní scénář
 
-Testování selhalo. Po vyplnění všech polí kromě **IČO** se osoba uložila a zobrazila v seznamu osob.
-
-Aplikace nezobrazila chybovou hlášku **„Vyplňte prosím toto pole.“**
-
-Osoba bez vyplněného **IČO** se zobrazí v seznamu osob.  
+Testování selhalo. 
+- Po vyplnění všech polí kromě **IČO** se osoba uložila a zobrazila v seznamu osob.
+- Aplikace nezobrazila chybovou hlášku **„Vyplňte prosím toto pole.“**
+- Osoba bez vyplněného **IČO** se zobrazí v seznamu osob.
+- 
 ## Linked work items
 
 - [**BUG-001** – Chybí validace pole **IČO** při vytváření osoby](../BugReports/BUG001_PridaniNoveOsoby.md)
