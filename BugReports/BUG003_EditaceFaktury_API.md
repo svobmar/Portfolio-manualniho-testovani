@@ -2,27 +2,25 @@
 
 ## Description
 
-**Příčina**
-
 Při odeslání požadavku na editaci faktury server sice vrátí odpověď **200 OK**, ale editace pole **invoiceNumber** se neprovede a číslo faktury zůstane beze změny.
 
-**Testovací zařízení**
+**Test environment**
 
 - Desktop
 - Windows 10 Pro
 - Verze 10.0.19045
 - Build 19045
 
-**Prohlížeč**
+**Browser**
 
 - Google Chrome
 - Verze 146.0.7680.177
 
-**Oblast**
+**Module**
 
 API endpoint `/api/invoices/{invoice_id}` – úprava faktury.
 
-**Povaha chyby**
+**Issue type**
 
 Funkční chyba – nesprávná aktualizace dat na back-endu.
 
