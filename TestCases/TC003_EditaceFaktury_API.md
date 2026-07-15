@@ -12,7 +12,7 @@ Endpoint pro editaci faktury:
 
 ## Test Steps
 
-### Pozitivní scénář
+### Positive test scenario
 
 1. Zvolte metodu **PUT** na endpoint `/api/invoices/1`.
 2. Do těla požadavku vložte následující JSON s platnými daty:
@@ -40,7 +40,7 @@ Endpoint pro editaci faktury:
 
 ---
 
-### Negativní scénář
+### Negative test scenatio
 
 1. Odešlete **PUT** požadavek na endpoint `/api/invoices/1` s chybějícím polem **invoiceNumber**:
 
@@ -79,13 +79,13 @@ Endpoint pro editaci faktury:
 
 ## Actual Result
 
-### Pozitivní scénář
+### Positive test scenario
 
 Testování selhalo.
 
 - Server sice vrátí kód **200 OK**, ale neproběhne změna čísla faktury. Pole **invoiceNumber** zůstane původní. Ostatní položky jsou upraveny dle zadání.
 
-### Negativní scénář
+### Negative test scenatio
 
 Testování proběhlo úspěšně.
 
