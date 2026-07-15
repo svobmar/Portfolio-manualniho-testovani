@@ -4,23 +4,23 @@
 
 Po pokusu o smazání osoby zůstává osoba i nadále zobrazena v seznamu osob. Po obnovení stránky není změna provedena.
 
-**Testovací zařízení**
+**Test environment**
 
 - Desktop
 - Windows 10 Pro
 - Verze 10.0.19045
 - Build 19045
 
-**Prohlížeč**
+**Browser**
 
 - Google Chrome
 - Verze 146.0.7680.177
 
-**Oblast**
+**Module**
 
 Stránka se seznamem osob.
 
-**Povaha chyby**
+**Issue type**
 
 Funkční (front-end)
 
@@ -39,8 +39,9 @@ Low – chyba neomezuje běh aplikace, ale ovlivňuje správnost zobrazených da
 ## Steps to reproduce
 
 1. Uživatel se nachází na obrazovce **Osoby**.
-2. U osoby **Milan Houžvička** klikne na tlačítko **„Smazat“**.
-3. Provede obnovu (refresh) stránky.
+2. Uživatel u osoby **Milan Houžvička** klikne na tlačítko **„Smazat“**.
+3. Uživatel potvrdí dialog pro smazání
+4. Provede obnovu (refresh) stránky.
 
 ## Expected Result
 
