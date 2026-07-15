@@ -71,12 +71,6 @@ Endpoint pro editaci faktury:
 }
 ```
 
-## Expected Result
-
-- Server uloží fakturu pouze v případě, že jsou správně vyplněna všechna povinná pole.
-- Pokud některé povinné pole chybí (např. **invoiceNumber**), server vrátí chybu **400 Bad Request**.
-- Pokud jsou všechna data platná, server vrátí **200 OK** a faktura se aktualizuje v databázi.
-
 ## Acceptance Criteria
 
 - Uživatel musí být schopen editovat fakturu pouze při vyplnění všech povinných polí.
@@ -89,7 +83,7 @@ Endpoint pro editaci faktury:
 
 Testování selhalo.
 
-Server sice vrátí kód **200 OK**, ale neproběhne změna čísla faktury. Pole **invoiceNumber** zůstane původní. Ostatní položky jsou upraveny dle zadání.
+- Server sice vrátí kód **200 OK**, ale neproběhne změna čísla faktury. Pole **invoiceNumber** zůstane původní. Ostatní položky jsou upraveny dle zadání.
 
 ### Negativní scénář
 
