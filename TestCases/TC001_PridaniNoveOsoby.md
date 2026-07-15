@@ -24,7 +24,7 @@ Uživatel se nachází na obrazovce **„Osoby“**.
 2. Klikne na tlačítko **„Nová osoba“**.
 3. Uživatel vyplní všechna pole kromě pole **IČO**.
 4. Klikne na tlačítko **„Uložit“**.
-5. **Očekávaný výsledek:** U pole se zobrazí chybová hláška **„Vyplňte prosím toto pole.“**  
+5. **Očekávaný výsledek:** U pole **IČO** se zobrazí chybová hláška **„Vyplňte prosím toto pole.“**  
 
 ## Acceptance Criteria
 
@@ -44,8 +44,7 @@ Testování proběhlo úspěšně.
 Testování selhalo. 
 - Po vyplnění všech polí kromě **IČO** se osoba uložila a zobrazila v seznamu osob.
 - Aplikace nezobrazila chybovou hlášku **„Vyplňte prosím toto pole.“**
-- Osoba bez vyplněného **IČO** se zobrazí v seznamu osob.
-- 
+  
 ## Linked work items
 
 - [**BUG-001** – Chybí validace pole **IČO** při vytváření osoby](../BugReports/BUG001_PridaniNoveOsoby.md)
