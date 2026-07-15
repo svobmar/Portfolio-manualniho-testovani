@@ -70,6 +70,20 @@ Ukázky dokumentace zahrnují zejména:
 - testování REST API pomocí Postmanu,
 - evidenci nalezených chyb v Jira.
 
+--- 
+
+## Získané zkušenosti
+
+- Návrh a tvorba testovacích případů (Test Cases)
+- Tvorba bug reportů
+- Manuální testování webové aplikace
+- Testování REST API pomocí Postmanu
+- Testování CRUD operací
+- Pozitivní a negativní testování
+- Validace formulářů
+- Tvorba testovací dokumentace v Markdown
+- Používání Gitu a GitHubu pro správu verzí
+
 ---
 
 ## Použité nástroje
