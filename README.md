@@ -9,16 +9,18 @@ Aplikace byla testována v lokálním vývojovém prostředí. Testovací příp
 ```
 .
 ├── README.md
-├── test-cases
-│   ├── persons
-│   └── invoices
-└── bug-reports
-    ├── persons
-    └── invoices
+├── TestCases
+│   ├── TC001_PridaniNoveOsoby.md
+│   ├── TC002_SmazaniOsoby.md
+│   └── TC003_EditaceFaktury_API.md
+├── BugReports
+│   ├── BUG001_PridaniNoveOsoby.md
+│   ├── BUG002_SmazaniOsoby.md
+│   └── BUG003_EditaceFaktury_API.md
 └── Screenshots
-    ├── postman
-    │   ├── TC003_GET_OvereniFaktury.png
-    │   └── TC003_PUT_EditaceFaktury.png
+    └── Postman
+        ├── TC003_GET_OvereniFaktury.PNG
+        └── TC003_PUT_EditaceFaktury.PNG
 ```
 
 ## Přehled aplikace
@@ -72,10 +74,12 @@ Ukázky dokumentace zahrnují zejména:
 
 ## Použité nástroje
 
-- **Jira** – tvorba testovacích případů a evidence bug reportů
-- **Postman** – testování REST API
 - **Google Chrome** – testování webové aplikace
-- **GitHub** – prezentace portfolia  
+- **Jira** – evidence testovacích případů a bug reportů
+- **Postman** – testování REST API
+- **REST API** – testování endpointů metodami GET a PUT
+- **Markdown** – tvorba dokumentace (README, Test Cases, Bug Reports)
+- **Git & GitHub** – správa verzí a publikace portfolia
 
 ## Ukázky testování REST API
 
