@@ -10,7 +10,7 @@ Uživatel se nachází na obrazovce **„Osoby“**.
 
 ## Test steps
 
-### Pozitivní scénář
+### Positive test scenario
 
 1. Uživatel klikne v menu na **Osoby**.
 2. Klikne na tlačítko **„Nová osoba“**.
@@ -18,7 +18,7 @@ Uživatel se nachází na obrazovce **„Osoby“**.
 4. Klikne na tlačítko **„Uložit“**.
 5. **Očekávaný výsledek:** Osoba se uloží a zobrazí se v seznamu osob.
 
-### Negativní scénář
+### Negative test scenario
 
 1. Uživatel klikne v menu na **Osoby**.
 2. Klikne na tlačítko **„Nová osoba“**.
@@ -34,12 +34,12 @@ Uživatel se nachází na obrazovce **„Osoby“**.
 
 ## Actual Result
 
-### Pozitivní scénář
+### Positive test scenario
 
 Testování proběhlo úspěšně. 
 - Po vyplnění všech polí se osoba uložila a zobrazila v seznamu osob.
 
-### Negativní scénář
+### Negative test scenario
 
 Testování selhalo. 
 - Po vyplnění všech polí kromě **IČO** se osoba uložila a zobrazila v seznamu osob.
