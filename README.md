@@ -91,17 +91,17 @@ Testování zahrnovalo zejména:
 
 ### Postman kolekce
 
-![Postman Collection](screenshots/postman/collection-overview.png)
+![Postman Collection](screenshots/postman/collection-overview.PNG)
 
 ### Editace faktury – metoda PUT
 
-![PUT Invoice](screenshots/postman/TC003_PUT_EditInvoice.png)
+![PUT Invoice](screenshots/postman/TC003_PUT_EditInvoice.PNG)
 
 Ukázka testování API endpointu pro editaci faktury pomocí metody **PUT**.
 
 ### Ověření změny – metoda GET
 
-![GET Invoice](screenshots/postman/TC003_GET_Verification.png)
+![GET Invoice](screenshots/postman/TC003_GET_Verification.PNG)
 
 Ověření provedené změny pomocí metody **GET**.
 
