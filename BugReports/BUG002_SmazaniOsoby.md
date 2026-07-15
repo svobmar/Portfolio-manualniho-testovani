@@ -39,8 +39,8 @@ Low – chyba neomezuje běh aplikace, ale ovlivňuje správnost zobrazených da
 ## Steps to reproduce
 
 1. Uživatel se nachází na obrazovce **Osoby**.
-2. Uživatel u osoby **Milan Houžvička** klikne na tlačítko **„Smazat“**.
-3. Uživatel potvrdí dialog pro smazání
+2. Uživatel u osoby **Milan Houžvička** klikne na tlačítko **„Odstranit“**.
+3. Uživatel potvrdí dialog pro odstranění
 4. Provede obnovu (refresh) stránky.
 
 ## Expected Result
